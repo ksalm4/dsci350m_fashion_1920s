@@ -1,3 +1,10 @@
+---
+title: Data Management Plan
+layout: about
+permalink: /dmp.html
+credits: true
+---
+
 # **Data Management Plan**
 
 # Project Description
