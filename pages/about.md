@@ -9,40 +9,45 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-## About this project and the people behind it
+## About This Project And The People Behind It
 
-# About us
+### About Us
 
 Rachel Kesich - Senior in Advertising at UO, minoring in digital humanities
-GitHub collections manager: Responsible for uploading and organizing our files to the GitHub repository.  
+GitHub Collections Manager: Responsible for uploading and organizing our files to the GitHub repository.  
+
 
 Kira Salm - Senior studying Psychology and Sociology with a concentration in data analysis at the University of Oregon. 
-Metadata collections manager: Responsible for organizing our metadata and checking for inaccuracies or copyright issues. 
+Metadata Collections Manager: Responsible for organizing our metadata and checking for inaccuracies or copyright issues. 
 
-Sydney Wolfe - Senior advertising major minoring in digital hummanities
+
+Sydney Wolfe - Senior advertising major minoring in digital humanities
 Project Manager: Oversees our data collection and makes sure we are staying on track with deadlines. 
 
-# Collection description:
 
-This collection provides a look into U.S. women’s fashion in the 1920s with a major focus on clothing displayed through physical objects, advertisements and magazines. 
+### Collection Description:
 
-# About the class:
+This collection provides a look into U.S. women’s fashion in the 1920s with a major focus on clothing displayed through physical objects, advertisements and magazines. The collection is open to all with the intent to be viewed and used by historians, educators, people pursuing creative endeavors and anyone who may be curious about fashion. 
+
+### About The Class:
 
 DSCI 350M: Humanities Research Data Management, Winter 2025
 Instructor: Franny Gaede, Associate Librarian at the University of Oregon
+Humanities Research Data Management focuses on the practices and theories behind the galleries, libraries, archives, and museums data. In this class, we learned about various scopes of the data management world, from the ethics behind data management and curation to developing our own data collection. 
 
-# Data Credit to:
+
+### Data Credit to:
 
 North Texas University College of Visual Arts and Design 
 Smithsonian National Museum of African American History and Culture
 Cornell University Library
 New York Public Library Digital Collections
 
-# Thank Yous:
+### Thank Yous:
 
-Thank you to Rayne Vieger (Head of Digital Publishing and Pedagogy - Associate Librarian), Erin Winter (Research Data Management Librarian - Assistant Librarian) and Franny Gaede (Scholarly Publishing Librarian - Associate Librarian),  for their support and guidance. 
+Thank you to Rayne Vieger (Head of Digital Publishing and Pedagogy - Associate Librarian), Erin Winter (Research Data Management Librarian - Assistant Librarian) and Franny Gaede (Scholarly Publishing Librarian - Associate Librarian), for their support and guidance during the duration of this project.
 
-# Copyright Statement:
+### Copyright Statement:
 
 The data contained in this repository includes copyrighted material, please use this data following copyright laws, we are not responsible for the data use of users of the repository. 
 
