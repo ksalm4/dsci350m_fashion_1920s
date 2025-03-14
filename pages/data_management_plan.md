@@ -28,8 +28,6 @@ Our data includes downloaded jpegs which are uploaded to the GitHub site. We col
 
 This data should be at least maintained until the last person involved in this project graduates from the University of Oregon most likely at the end of Winter Term of 2026\. 
 
-# 
-
 ## Data Formats and Dissemination
 
 | Data Type | File Type | Notes |
