@@ -8,11 +8,14 @@ https://ksalm4.github.io/dsci350m_fashion_1920s/
 
 ## Topic 
 ### 1920s US Women's Fashion
+
 A small look into fashion from around a century ago in which there were many large social and economic changes during the decade resulting in changes in fashion which are displayed in this collection
 
 ## About the Data Management plan
+
 It includes a longer description of what the project is about, the people involved in the project, the data collected, how the data is stored and for how long. 
-Data Management Plan | Womens Fashion 1920s
+
+https://ksalm4.github.io/dsci350m_fashion_1920s/dmp.html
 
 
 # CollectionBuilder-Sheets
