@@ -1,3 +1,20 @@
+# DSCI 350M Humanities Research Data Management, Winter 2025
+
+A class teaching on the theories and practices of how people work in galleries, libraries, archives, and museums manage data. A majority of this class was spent creating this repository.
+
+Rachel Kesich, Kira Salm, and Sydney Wolfe created this repository using CollectionBuilder which is created by a great team of people to help create a digital exhibit to display the collection
+
+https://ksalm4.github.io/dsci350m_fashion_1920s/
+
+## Topic 
+### 1920s US Women's Fashion
+A small look into fashion from around a century ago in which there were many large social and economic changes during the decade resulting in changes in fashion which are displayed in this collection
+
+## About the Data Management plan
+It includes a longer description of what the project is about, the people involved in the project, the data collected, how the data is stored and for how long. 
+Data Management Plan | Womens Fashion 1920s
+
+
 # CollectionBuilder-Sheets
 
 CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV (such as a published Google Sheet!). 
